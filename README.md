@@ -1,3 +1,10 @@
+# projeto integrado modulo 5 unifeob 
+Eduardo Corbano Lourenço, RA 24001663
+Elton Mazzali Pinto, RA 24002287
+Gabriel Henrique Ferreira, RA 24002277
+Joice Grazieli Vieira, RA 24002213
+Kathlyn Rose Silveira, 24002286
+
 # Sistema de Gestão dos recebiveis do Caixa
 
 ## Sobre o Sistema
